@@ -1,0 +1,1 @@
+-threads 4 -nojoy -nod3d9ex -freq 144 -novid -high +exec autoexec.cfg
